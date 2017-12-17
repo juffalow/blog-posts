@@ -320,3 +320,11 @@ Executing (default): SELECT id, quote FROM quotes AS quotes;
 And we are done! You can find the project on [GitHub](https://github.com/juffalow/sequelize-example). Next time I am going to write about how to register users with Sequelize and how to create associations. If you have any questions, leave me a comment or send me an email.
 
 #### References
+
+[Sequelize](http://docs.sequelizejs.com/)
+
+[Sequelize CLI](https://github.com/sequelize/cli)
+
+[Wikipedia - Schema migrations](https://en.wikipedia.org/wiki/Schema_migration)
+
+[Michael Brunton-Spall - Database Migrations Done Right](http://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/)
