@@ -1,6 +1,7 @@
 ---
 title: 'Google Code Jam 2017: Tidy Numbers'
 media_order: google-code-jam.jpg
+date: '29-06-2017 19:23'
 taxonomy:
     tag:
         - Algorithms

@@ -1,6 +1,7 @@
 ---
 title: 'Do (not?) write comments'
 media_order: quotation.png
+date: '14-11-2017 19:16'
 header_image_file: quotation.png
 header_image_width: 128
 header_image_height: 128

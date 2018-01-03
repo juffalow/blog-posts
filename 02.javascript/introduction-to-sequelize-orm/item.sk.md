@@ -1,6 +1,7 @@
 ---
 title: 'Introduction to Sequelize ORM'
 media_order: sequelize-large.png
+date: '04-06-2017 19:21'
 taxonomy:
     tag:
         - JavaScript

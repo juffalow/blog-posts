@@ -8,6 +8,10 @@ content:
         -
             '@page.children': /javascript
         -
+            '@page.children': /php
+        -
+            '@page.children': /java
+        -
             '@page.children': /other
     limit: 5
     order:
@@ -16,4 +20,3 @@ content:
     pagination: true
     url_taxonomy_filters: true
 ---
-

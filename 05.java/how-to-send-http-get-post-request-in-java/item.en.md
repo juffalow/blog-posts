@@ -1,6 +1,7 @@
 ---
 title: 'How to send HTTP GET / POST request in Java '
 media_order: http.png
+date: '09-02-2017 19:26'
 taxonomy:
     tag:
         - Java

@@ -1,11 +1,12 @@
 ---
 title: 'Google Code Jam 2017: Oversized Pancake Flipper'
 media_order: google-code-jam.jpg
+date: '25-04-2017 19:23'
 taxonomy:
     tag:
+        - JavaScript
         - Algorithms
         - 'Google Code Jam'
-        - JavaScript
 header_image_file: google-code-jam.jpg
 header_image_width: 128
 header_image_height: 72

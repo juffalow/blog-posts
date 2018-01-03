@@ -1,11 +1,12 @@
 ---
 title: 'Lexicographical permutations'
 media_order: hackerrank.png
+date: '30-05-2017 19:24'
 taxonomy:
     tag:
         - Algorithms
-        - HackerRank
         - C++
+        - HackerRank
 header_image_file: hackerrank.png
 header_image_width: 128
 header_image_height: 128

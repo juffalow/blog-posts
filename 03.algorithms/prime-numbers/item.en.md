@@ -1,11 +1,12 @@
 ---
 title: 'Prime numbers'
 media_order: algorithm.png
+date: '29-03-2017 19:22'
 taxonomy:
     tag:
         - Algorithms
-        - Java
         - Go
+        - Java
 header_image_file: algorithm.png
 header_image_width: 128
 header_image_height: 128

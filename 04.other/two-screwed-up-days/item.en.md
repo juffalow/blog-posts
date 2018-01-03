@@ -1,6 +1,7 @@
 ---
 title: 'Two screwed up days'
 media_order: yarn.png
+date: '20-10-2016 19:20'
 header_image_file: yarn.png
 header_image_width: 128
 header_image_height: 128

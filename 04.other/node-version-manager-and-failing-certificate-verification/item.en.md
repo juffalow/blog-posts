@@ -1,6 +1,7 @@
 ---
 title: 'Node Version Manager and failing certificate verification'
 media_order: node-js.png
+date: '07-11-2017 19:18'
 taxonomy:
     tag:
         - Node.js

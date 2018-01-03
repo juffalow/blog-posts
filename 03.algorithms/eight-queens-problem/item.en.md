@@ -1,6 +1,7 @@
 ---
 title: 'Eight queens problem'
 media_order: nqueens.png
+date: '05-10-2016 19:19'
 taxonomy:
     tag:
         - Algorithms
