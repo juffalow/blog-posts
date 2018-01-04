@@ -23,6 +23,14 @@ Later I was thinking how to prevent from such situations. I remembered I saw a v
 
 Here is the video, where they suggest to take a screenshot before deploy and after deploy. Then a visual diff is created and calculated and you can see what changed.
 
+<div class="row">
+  <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-6 col-xs-12">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UMnZiTL0tUc"></iframe>
+    </div>
+  </div>
+</div>
+
 #### Install tools
 
 You need to install a few tools which are used later. First is **PhantomJS**, which is *headless WebKit with a JavaScript API*. You can download it [here](http://phantomjs.org/download.html) but it is available as [npm package](https://www.npmjs.com/package/phantomjs) too.
