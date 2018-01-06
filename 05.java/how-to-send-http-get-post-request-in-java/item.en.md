@@ -6,8 +6,6 @@ taxonomy:
     tag:
         - Java
 header_image_file: http.png
-header_image_width: 128
-header_image_height: 64
 ---
 
 This post describes how to make HTTP GET and POST request on server. I will use httpbin server for testing. It returns you everything you send there : query params, post data, headers, etc.

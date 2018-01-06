@@ -7,8 +7,6 @@ taxonomy:
         - php
         - WordPress
 header_image_file: wordpress.png
-header_image_width: 128
-header_image_height: 128
 ---
 
 When you try to use two ( or more ) WordPress sites with one shared database, you will have problem to access the pages except the original one. WordPress knows what should be its URL and when it does not match with the request, it redirects you. Fortunately, there is an easy “hack” for this to make it work.

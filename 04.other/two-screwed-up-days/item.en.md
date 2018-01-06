@@ -3,8 +3,6 @@ title: 'Two screwed up days'
 media_order: yarn.png
 date: '20-10-2016 19:20'
 header_image_file: yarn.png
-header_image_width: 128
-header_image_height: 128
 ---
 
 Little story about my two hard and nervous days. Problems with NPM, fighting with Node and Linux, reading about Yarn. Wrote it down while sitting in front of the computer and thinking about nothing and everything at the same time, i.e. relaxing.

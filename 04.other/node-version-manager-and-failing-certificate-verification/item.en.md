@@ -6,8 +6,6 @@ taxonomy:
     tag:
         - Node.js
 header_image_file: node-js.png
-header_image_width: 128
-header_image_height: 78
 ---
 
 In my current job, we have some kind of network settings ( or better proxy settings ) that from time to time cause problems with certificate verification.

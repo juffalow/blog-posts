@@ -3,8 +3,6 @@ title: 'Where do I take my energy'
 media_order: unlimited-energy-source.jpg
 date: '28-02-2017 19:20'
 header_image_file: unlimited-energy-source.jpg
-header_image_width: 128
-header_image_height: 100
 ---
 
 Few weeks ago in the late night, my friend asked me, where do I take the energy. He knows I have work, couple of sides projects and from time to time I try to write here some post. Is it some kind of a coffee? Or something else? I didn’t know how to answer, but I was thinking about it during a walk.

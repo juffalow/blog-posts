@@ -8,8 +8,6 @@ taxonomy:
         - Algorithms
         - 'Google Code Jam'
 header_image_file: google-code-jam.jpg
-header_image_width: 128
-header_image_height: 72
 ---
 
 Last year, the Infinite House of Pancakes introduced a new kind of pancake. It has a happy face made of chocolate chips on one side (the “happy side”), and nothing on the other side (the “blank side”).
