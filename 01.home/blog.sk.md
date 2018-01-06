@@ -3,12 +3,16 @@ title: home
 visible: false
 content:
     items:
-        -
-            '@page.children': /algorithms
-        -
-            '@page.children': /javascript
-        -
-            '@page.children': /other
+    -
+        '@page.children': /algorithms
+    -
+        '@page.children': /javascript
+    -
+        '@page.children': /php
+    -
+        '@page.children': /java
+    -
+        '@page.children': /other
     limit: 5
     order:
         by: date
@@ -16,4 +20,3 @@ content:
     pagination: true
     url_taxonomy_filters: true
 ---
-
