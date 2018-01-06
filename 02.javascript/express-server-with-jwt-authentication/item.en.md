@@ -8,6 +8,7 @@ taxonomy:
         - Node.js
         - Express
         - JWT
+        - 'Example project'
 header_image_file: express-js.png
 ---
 

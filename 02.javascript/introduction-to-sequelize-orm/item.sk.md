@@ -6,6 +6,7 @@ taxonomy:
     tag:
         - JavaScript
         - Node.js
+        - 'Example project'
 header_image_file: sequelize-large.png
 header_image_width: 128
 header_image_height: 128
