@@ -89,7 +89,7 @@ sequelize-example/
 
 You can design your database on paper or in some tool and generate sql file ( or write it yourself ), run it and create tables this way. In this case :
 
-```
+```sql
 DROP TABLE IF EXISTS quotes;
 
 CREATE TABLE quotes (
@@ -130,7 +130,7 @@ $ ./node_modules/sequelize-cli/bin/sequelize migration:create --name initial
 
 This will generate new file in *migrations* directory with those two methods, `up` and `down` :
 
-```
+```js
 'use strict';
 
 module.exports = {
@@ -158,7 +158,7 @@ module.exports = {
 
 We have to modify this file, so that in `up` method it will create our table and in `down` method it will drop this table :
 
-```
+```js
 'use strict';
 
 module.exports = {
@@ -186,7 +186,7 @@ module.exports = {
 
 Now create a database on your localhost ( or wherever else ) and edit *config/config.json* file :
 
-```
+```js
 {
     "development": {
         "username": "root",
@@ -218,7 +218,7 @@ As description says, this command runs every not yet executed migration. If you 
 
 Now when you look on the database, it should have the *quotes* table ( and the *SequelizeMeta* table ). If so, you can go on and create new file *quotes.js* in models direcory.
 
-```
+```js
 module.exports = function(sequelize, DataTypes) {
     var quotes = sequelize.define('quotes', {
         id: {
@@ -253,7 +253,7 @@ Sequelize creates two columns `updatedAt` and `createdAt` by default. If you don
 
 Almost everything is ready. In the main file, *index.js*, we are going to initialize the sequelize and then write a function that load everything from the table and print it in form “id | quote”.
 
-```
+```js
 var models = require('./models/index.js');
 
 function startApp() {
@@ -285,7 +285,7 @@ $ ./node_modules/sequelize-cli/bin/sequelize seed:create --name firstthree
 
 This will create new file in *seed* directory with some example code. Edit this file as follows :
 
-```
+```js
 'use strict';
 
 module.exports = {

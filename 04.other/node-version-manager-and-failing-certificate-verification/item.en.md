@@ -51,6 +51,6 @@ And then you can install any version you want :
 $ nvm install <version>
 ```
 
-## References
+#### References
 
 [GitHub – nvm](https://github.com/creationix/nvm#listing-versions)
