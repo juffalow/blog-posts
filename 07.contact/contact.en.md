@@ -1,5 +1,6 @@
 ---
 title: 'About me'
+slug: about-me
 ---
 
 #### Work experiences

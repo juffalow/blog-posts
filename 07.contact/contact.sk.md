@@ -1,5 +1,6 @@
 ---
 title: 'O mne'
+slug: o-mne
 ---
 
 #### Pracovné skúsenosti
