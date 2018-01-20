@@ -1,5 +1,6 @@
 ---
-title: home
+title: 'Matej ''juffalow'' Jellus'
+media_order: 'qrcode.png'
 visible: false
 content:
     items:
