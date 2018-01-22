@@ -105,6 +105,10 @@ aa13384 Update docs
 44de44c Add HSTS check
 ```
 
+#### Commitizen
+
+There is a command line tool available on GitHub named [Commitizen](https://github.com/commitizen/cz-cli) which makes it a little bit easier. When you want to commit, you just type <kbd>git cz</kbd> and it asks you couple of questions and then creates the commit with proper message for you.
+
 #### References
 
 [Git commit](https://git-scm.com/docs/git-commit) manpage
@@ -112,3 +116,5 @@ aa13384 Update docs
 [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub
 
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) post from Chris Beams
+
+[Angular Commit Message Format](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
