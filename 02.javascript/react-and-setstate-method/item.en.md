@@ -93,7 +93,7 @@ class IncrementButton extends Component {
 export default IncrementButton;
 ```
 
-If you click on the button, you call the parent method `onIncrementButtonClick` which will update the parent's state, i. e. some time later, `value` will be 1. Then you update the state of the `IncrementButton`. You take the value from the props and increment it. The problem is, that in the props, you have still the old value, therefore you update the state to '0 + 1`. The button after first click has value 1, but in fact, it should be 2.
+If you click on the button, you call the parent method `onIncrementButtonClick` which will update the parent's state, i. e. some time later, `value` will be 1. Then you update the state of the `IncrementButton`. You take the value from the props and increment it. The problem is, that in the props, you have still the old value, therefore you update the state to `0 + 1`. The button after first click has value 1, but in fact, it should be 2.
 
 ## The solution
 
@@ -120,7 +120,7 @@ The same applies on the second example. Modify the `onButtonClick` method of the
 ```javascript
 onButtonClick() {
   this.props.onClick();
-  this.setState((prevState, prevProps) => { return {value: prevProps.value + 1} });
+  this.setState((prevState, props) => { return {value: props.value + 1} });
 }
 ```
 
