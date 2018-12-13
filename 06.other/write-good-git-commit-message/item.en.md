@@ -93,7 +93,7 @@ $ git log --oneline --decorate --color
 # show history from one tag to another
 $ git log 0.0.9..0.0.10 --oneline --decorate --color
 
-# show history form tag to head
+# show history from tag to head
 git log 0.0.9..HEAD --oneline --decorate --color
 ```
 
